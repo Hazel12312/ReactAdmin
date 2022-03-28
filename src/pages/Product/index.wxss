@@ -1,0 +1,24 @@
+.ant-layout-content .ant-card-head-title .backArrow {
+  cursor: pointer;
+  margin-right: 20px;
+  color: #52c1de;
+}
+.ant-layout-content .ant-card-head-title .backArrow:hover {
+  color: #8bd5e7;
+}
+.ant-layout-content .ant-card-body .ant-table-cell:last-child {
+  min-width: 70px;
+}
+.ant-layout-content .ant-card-body .ant-table-cell:last-child .link-button {
+  margin: 0;
+}
+.product-detail li {
+  justify-content: left;
+}
+.product-detail .left {
+  margin-right: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  display: inline-block;
+  width: 90px;
+}

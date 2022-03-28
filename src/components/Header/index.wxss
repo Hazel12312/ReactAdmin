@@ -1,0 +1,36 @@
+.header-box {
+  height: 60px;
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+.header-box .header-top {
+  height: 30px;
+  border-bottom: 1px solid #52c1de;
+  text-align: right;
+  padding: 5px 0;
+}
+.header-box .header-top a {
+  margin: 0 8px;
+  font-size: 12px;
+}
+.header-box .header-bottom {
+  height: 30px;
+  display: flex;
+  font-size: 13px;
+  padding: 5px 0;
+}
+.header-box .header-bottom .path-box {
+  width: 20%;
+  text-align: left;
+  margin-left: 16px;
+}
+.header-box .header-bottom .distinct {
+  margin-left: 5px;
+}
+.header-box .header-bottom .weather-box {
+  width: 80%;
+  text-align: right;
+}
+.header-box .header-bottom .weather-box .weather {
+  margin: 0 8px;
+}
